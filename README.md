@@ -50,7 +50,7 @@ HAVING COUNT(*) = (
 );
 ```
 
-### Задача 2
+### Задача 2
 
 ```
 function countTuesdaysBetweenDates($start_date, $end_date) {
